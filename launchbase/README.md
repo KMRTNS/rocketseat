@@ -2,16 +2,16 @@
   <a href="#">
     <img alt="LaunchBase" src="./.github/logo.jpg"/>
   </a>
-  <a href="./fase_01">
+  <a href="./1Fase">
     <img src="./.github/card_01.jpg">
   </a>
-  <a href="./fase_02">
+  <a href="./2Fase">
     <img src="./.github/card_02.jpg">
   </a>
-  <a href="./fase_03">
+  <a href="./3Fase">
     <img src="./.github/card_03.jpg">
   </a>
-  <a href="./fase_04">
+  <a href="./4Fase">
     <img src="./.github/card_04.jpg">
   </a>
 </div>
